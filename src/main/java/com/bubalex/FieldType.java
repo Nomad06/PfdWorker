@@ -1,0 +1,17 @@
+package com.bubalex;
+
+public enum FieldType {
+    CHECKBOX,
+    COMBOBOX,
+    TEXT_FIELD,
+    RADIO_BUTTON,
+    DATE_FIELD,
+    MULTILINE_TEXT_FIELD,
+    CELL_TEXT,
+    DATE_RANGE,
+    DATE_PICKER_CALENDAR,
+    ZIP_4_LAST,
+    PHONE_PREFIX_3_LETTERS,
+    PHONE_FIRST_3_LETTERS,
+    PHONE_4_LAST_LETTERS,
+}
